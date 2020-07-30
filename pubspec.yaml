@@ -23,6 +23,23 @@ dependencies:
   clipboard_manager: 
   flutter_lorem:
   clippy:
+  equatable: 
+  dartz:
+  provider:
+  get_it:
+  easy_alert:
+  intl:
+  uuid:
+  auto_route:
+  shared_preferences:
+  shortid:
+  short_readable_id:
+  mock_data:
+  faker:
+  snack:
+  oktoast: 2.3.1+1
+ 
+
   # The following adds the Cupertino Icons font to your application.
   # Use with the CupertinoIcons class for iOS style icons.
   cupertino_icons: ^0.1.3
